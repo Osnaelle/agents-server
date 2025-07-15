@@ -8,6 +8,20 @@
       "when": 1752160553840,
       "tag": "0000_military_hercules",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752238168655,
+      "tag": "0001_worried_doctor_doom",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752583954102,
+      "tag": "0002_faithful_arachne",
+      "breakpoints": true
     }
   ]
 }
